@@ -42,7 +42,7 @@ class _HomeState extends State<Home> {
               appbarUI(width),
               //END APPBAR//
               ///////////////////////////////////////////////////////
-              //space
+              
               SizedBox(
                 height: 100.0,
                 child: ListView.builder(
